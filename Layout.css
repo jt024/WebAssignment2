@@ -1,2 +1,8 @@
-﻿body {
+﻿#image1 {
+    width:800px; 
+    height:450px; 
+    background-image:url("images/gottardi_800x450.png")
+}
+p {
+    font-family:Verdana; 
 }
